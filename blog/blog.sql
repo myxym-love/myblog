@@ -78,11 +78,11 @@ CREATE TABLE `user`  (
 -- ----------------------------
 -- Records of user
 -- ----------------------------
-INSERT INTO `user` VALUES (1, 'myxym', 'my147963', '1602271854@qq.com', '毛宇', '15370226707', 'male', '2000-11-01', 1);
-INSERT INTO `user` VALUES (2, 'jackaaaa', 'my147963', 'codermy160@gmail.com', '张三', '13057017830', 'male', '2021-12-02', 0);
+INSERT INTO `user` VALUES (1, 'myxym', 'as147962', '1602271854@qq.com', '毛宇', '15370226707', 'male', '2000-11-01', 1);
+INSERT INTO `user` VALUES (2, 'jackaaaa', 'ds147943', 'codermy160@gmail.com', '张三', '13057017830', 'male', '2021-12-02', 0);
 INSERT INTO `user` VALUES (4, 'admin1111', '123456', 'codermy160@gmail.com', '毛宇1', '13057017830', 'female', '2021-12-02', 0);
 INSERT INTO `user` VALUES (5, 'jackabaa', '12345678', '1602271854@qq.com', '张三', '18051580207', 'male', '2021-12-03', 0);
-INSERT INTO `user` VALUES (6, 'mmyxymmm', 'my147963', '1602271854@qq.com', '毛宇', '15370226707', 'male', '2000-11-01', 0);
+INSERT INTO `user` VALUES (6, 'mmyxymmm', 'as142923', '1602271854@qq.com', '毛宇', '15370226707', 'male', '2000-11-01', 0);
 INSERT INTO `user` VALUES (7, 'rootroot', '12345678', 'codermy160@gmail.com', '张三', '15370226707', 'female', '2021-12-04', 0);
 
 SET FOREIGN_KEY_CHECKS = 1;
